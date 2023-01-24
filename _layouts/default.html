@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/logo.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/logo.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon.png">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -23,25 +23,19 @@
         -->
         <p class="center">
         {% if site.logo %}
-          <img class="logo" src="{{site.logo | relative_url}}" alt="r3kapig" style="cursor:pointer;" onclick="location.replace('/')" />
+          <img class="logo" src="{{site.logo | relative_url}}" alt="seahatvn" style="cursor:pointer;" onclick="location.replace('/')" />
         {% endif %}
         </p>
         <p class="center">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
         <ul class="other site">
-          <li>&#128681; <a href="https://ctftime.org/team/58979" class="btn">CTFTime</a></li>
-          <li>&#128218; <a href="/writeup/" class="btn">Writeup</a></li>
-          {% if page.id == 'index' %}
-          <li>&#128373; <a href="#team-members" class="btn">Members</a></li>
-          <li>&#127942; <a href="#selected-awards" class="btn">Selected Awards</a></li>
-          {% else' %}
-          <li>&#128373; <a href="/#team-members" class="btn">Members</a></li>
-          <li>&#127942; <a href="/#selected-awards" class="btn">Selected Awards</a></li>
-          {% endif %}
-          <li>&#128373; <a href="/r3kapig-skill-tree-v1.0">r3kapig skill tree</a></li>
-          <li>&#128008; <a href="https://github.com/r3kapig">GitHub</a></li>
-          <li>&#128038; <a href="https://twitter.com/r3kapig" class="btn">Twitter</a>
+          <li>&#128681; <a href="https://ctftime.org/team/197319" class="btn">CTFTime</a></li>
+          <li>  🤖  <a href="https://blog.seahatvn.ru/" class="btn">Blogs</a></li>
+          <li>  💀  <a href="#team-members" class="btn">Members</a></li>
+          <li>  🏆  <a href="#selected-awards" class="btn">Selected Awards</a></li>
+          <li>  📑  <a href="#writeups" class="btn">Writeup</a></li>
+          <li>  🐈‍⬛  <a href="https://github.com/seahatvn">GitHub</a></li>
         </ul>
         {% endif %}
       </header>
