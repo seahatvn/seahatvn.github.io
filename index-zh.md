@@ -4,17 +4,22 @@ id: index
 ---
 
 # r3kapig
-
 [中文](./index-zh.md)  [English](./index.md)
 
-r3kapig is a united CTF Team mostly emerges from Eur3kA and FlappyPig since 2018. And just so you know, r3kapig is a delicious dish that can be grilled and fried, and the mission of the team is to provide the most delicious food for the host. :P
 
-We actively participate in online and on-site CTF competitions. You can browse our recently participated events and ranks on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, etc. 
 
-If necessary, this is our official email: root@r3kapig.com
+&nbsp;&nbsp;&nbsp;&nbsp;r3kapig战队成立于2018年，由老牌CTF战队Flappypig和强劲新锐战队Eur3ke联合组成。战队愿景是成为国际知名CTF战队。
+
+&nbsp;&nbsp;&nbsp;&nbsp;我们的成员擅长领域十分广泛，从自然地理到高性能计算，从电子商务到理论物理，他们来自五湖四海，从千年古都西安到浪漫土耳其，从上海滩到加州公路，从首都北京到日本东京，都有r3kapig成员忙碌的身影。退役队员也将自己的精力和智识投入阿里巴巴、腾讯、京东、奇虎360等等知名公司。
+
+&nbsp;&nbsp;&nbsp;&nbsp;战队成立之初就崭露头角，成立当年就挺进Defcon总决赛，并在次年再次成功入围Defcon27决赛。国内赛场同样披荆斩棘，完成了XCTF四连冠的傲人战绩。战队多次打进国际比赛决赛，包括HITCON CTF、Nuit do hack和Dragon CTF等。另外，战队还在2019年0CTF国际赛中拔得头筹，创造了中国大陆战队在0CTF中的最好成绩。
+
+&nbsp;&nbsp;&nbsp;&nbsp;未来,r3kapig战队将继续在CTF赛场中努力，同时也欢迎有理想有技能的人加入我们，一起为更安全的未来努力。
+
+&nbsp;&nbsp;&nbsp;&nbsp;官方邮箱：root@r3kapig.com ，欢迎一起交流学习。
 <br>
 
-# Team Members
+# 战队成员
 
 > Give me a point, I can lift a flappy pig.
 >
@@ -22,7 +27,7 @@ If necessary, this is our official email: root@r3kapig.com
 
 <br>
 
-## Active Members
+## 活跃成员
 
 
 | | |
@@ -54,7 +59,7 @@ If necessary, this is our official email: root@r3kapig.com
 
 <br>
 
-## Historical Active Members
+## 历史活跃成员
 
 | | |
 | :----------------------------------------------------: | :---------------------------------------------------------- |
@@ -64,7 +69,7 @@ If necessary, this is our official email: root@r3kapig.com
 
 <br>
 
-# Selected Awards
+# 战队成绩
 
 
 |                 Game Name                            |           Time            |

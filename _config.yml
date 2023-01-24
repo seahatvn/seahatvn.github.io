@@ -1,7 +1,8 @@
-title: seahatvn
+title: r3kapig
 logo: /assets/img/logo.png
-description: Server Hack Team
+description: United Team of Eur3kA and FlappyPig
 show_downloads: true
 google_analytics:
-remote_theme: r3kapig
+# theme: r3kapig # use in local, don't commit this file
+remote_theme: r3kapig/r3kapig.github.io # for remote
 exclude: ['_site', 'node_modules', 'script', 'LICENSE', 'README.md']
