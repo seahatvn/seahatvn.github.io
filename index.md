@@ -2,6 +2,11 @@
 layout: default
 id: index
 ---
+<br>
+
+# [👉 ĐĂNG KÝ THAM GIA TEAM NGAY🌸](https://docs.google.com/forms/d/e/1FAIpQLSdmbZUnzji86oCUBqM1AN8V-u1Q1x9WuM03L9VjpcvfcR6UEg/viewform)
+
+<br>
 
 # 💀Team Members
 
