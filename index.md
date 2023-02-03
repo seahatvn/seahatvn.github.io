@@ -45,8 +45,8 @@ id: index
 
 |                      Event Name                      |           Links            |
 | ---------------------------------------------------- | ------------------------: |
-| [KnightCTF 2023](https://ctftime.org/event/1792) | [Reverse](https://vietzettt.ru/2023-01-21-knightCTF_2023.html) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/knight-ctf-2023-write-up-web) |
-| [WRECKCTF 2022](https://ctftime.org/event/1775) | [Reverse](https://vietzettt.ru/2022-10-02-wreckctf_2022.html) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/wreck-ctf-2022-write-up-web) |
-| [Cryptoverse CTF 2022](https://ctftime.org/event/1735) | [Reverse](https://vietzettt.ru/2022-10-22-cryptoversectf_2022.html) |
+| [KnightCTF 2023](https://ctftime.org/event/1792) | [Reverse](https://vietzettt.ru/posts/2023/01/knightCTF_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/knight-ctf-2023-write-up-web) |
+| [WRECKCTF 2022](https://ctftime.org/event/1775) | [Reverse](https://vietzettt.ru/posts/2022/10/wreckctf_2022) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/wreck-ctf-2022-write-up-web) |
+| [Cryptoverse CTF 2022](https://ctftime.org/event/1735) | [Reverse](https://vietzettt.ru/posts/2022/10/cryptoversectf_2022) |
 | [Sekai CTF 2022](https://ctftime.org/event/1619) | [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-writeups/sekai-ctf-2022) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/sekai-ctf-2022-write-up-web) |
-| [DownUnder CTF 2022](https://ctftime.org/event/1625) | [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-writeups/downunder-ctf-2022) & [Reverse](https://vietzettt.ru/2022-09-23-down_under_ctf_2022.html) |
+| [DownUnder CTF 2022](https://ctftime.org/event/1625) | [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-writeups/downunder-ctf-2022) & [Reverse](https://vietzettt.ru/posts/2022/09/down_under_ctf_2022) |
