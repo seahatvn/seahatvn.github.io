@@ -45,6 +45,8 @@ id: index
 
 |                      Event Name                      |           Links            |
 | ---------------------------------------------------- | ------------------------: |
+|[DiceCTF 2023](https://ctftime.org/event/1838)| [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-re-writeups/dice-ctf-2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/dice-ctf-2023-writeup-web) |
+| [Byte Bandits CTF 2023](https://ctftime.org/event/1877) | [Reverse](https://vietzettt.ru/posts/2023/02/bbctf_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/bytebandits-ctf-2023-writeup-web) |
 | [KnightCTF 2023](https://ctftime.org/event/1792) | [Reverse](https://vietzettt.ru/posts/2023/01/knightCTF_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/knight-ctf-2023-write-up-web) |
 | [WRECKCTF 2022](https://ctftime.org/event/1775) | [Reverse](https://vietzettt.ru/posts/2022/10/wreckctf_2022) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/wreck-ctf-2022-write-up-web) |
 | [Cryptoverse CTF 2022](https://ctftime.org/event/1735) | [Reverse](https://vietzettt.ru/posts/2022/10/cryptoversectf_2022) |
