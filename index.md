@@ -4,10 +4,6 @@ id: index
 ---
 <br>
 
-# [👉 ĐĂNG KÝ THAM GIA TEAM NGAY🌸](https://docs.google.com/forms/d/e/1FAIpQLSdmbZUnzji86oCUBqM1AN8V-u1Q1x9WuM03L9VjpcvfcR6UEg/viewform)
-
-<br>
-
 # 💀Team Members
 
 <br>
@@ -45,6 +41,7 @@ id: index
 
 |                      Event Name                      |           Links            |
 | ---------------------------------------------------- | ------------------------: |
+|[LA CTF 2023](https://ctftime.org/event/1732) | [Reverse](https://vietzettt.ru/posts/2023/02/lactf_2023) |
 |[DiceCTF 2023](https://ctftime.org/event/1838)| [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-re-writeups/dice-ctf-2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/dice-ctf-2023-writeup-web) |
 | [Byte Bandits CTF 2023](https://ctftime.org/event/1877) | [Reverse](https://vietzettt.ru/posts/2023/02/bbctf_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/bytebandits-ctf-2023-writeup-web) |
 | [KnightCTF 2023](https://ctftime.org/event/1792) | [Reverse](https://vietzettt.ru/posts/2023/01/knightCTF_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/knight-ctf-2023-write-up-web) |
