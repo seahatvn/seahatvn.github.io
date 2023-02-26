@@ -31,6 +31,7 @@ id: index
 
 |                      Event Name                      |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| M☆CTF Trainning 2023 2th place | Online, Moscow, Russia, Feb.2023|
 | MPEI CTF 2022 1th place | MPEI University, Moscow, Russia, July.2022 |
 
 <p class="right">... more available at <a href="https://ctftime.org/team/197319">ctftime</a>.</p>
@@ -41,6 +42,7 @@ id: index
 
 |                      Event Name                      |           Links            |
 | ---------------------------------------------------- | ------------------------: |
+|[M☆CTF Trainning 2023](https://mctf.mtuci.ru/) | [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/m-ctf-training-2023) & [Reverse](https://vietzettt.ru/posts/2023/02/mctf_trainning_2023) |
 |[LA CTF 2023](https://ctftime.org/event/1732) | [Reverse](https://vietzettt.ru/posts/2023/02/lactf_2023) |
 |[DiceCTF 2023](https://ctftime.org/event/1838)| [Crypto](https://dunglq.gitbook.io/mathcrypto/ctf-re-writeups/dice-ctf-2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/dice-ctf-2023-writeup-web) |
 | [Byte Bandits CTF 2023](https://ctftime.org/event/1877) | [Reverse](https://vietzettt.ru/posts/2023/02/bbctf_2023) & [Web](https://shangs.gitbook.io/shang/write-up-ctf/ctf-competitions/bytebandits-ctf-2023-writeup-web) |
