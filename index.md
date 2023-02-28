@@ -20,6 +20,20 @@ id: index
 
 <br>
 
+## New Members
+
+| | |
+| --------------------------------------------------------- | ------------------------------------------------------------|
+| <img src="assets/profile/lqa.jpg" class="profile-image" alt="profile-image"/> | **LQA** <br /> Studying Information Security In ITMO university <br /> Miscellaneous & Forensics <br />- Github: [LeQA](https://github.com/LeQA) |
+| <img src="assets/profile/lyn.jpg" class="profile-image" alt="profile-image"/> | **Lyn**<br /> Là một con người. <br /> Web Security <br />- Blog: [https://lynngu2.wordpress.com](https://lynngu2.wordpress.com/)<br />- Github: [52hzNKL](https://github.com/52hzNKL)|
+| <img src="assets/profile/khanhcv.jpg" class="profile-image" alt="profile-image"/> | **KhanhCV**<br /> Web Security <br />- Blog: [https://danoblog.ru](https://danoblog.ru)<br />- Github: [KhanhCVHE](https://github.com/KhanhCVHE) |
+| <img src="assets/profile/misa0136.jpg" class="profile-image" alt="profile-image"/> | **misa0136** <br /> National Research University ITMO <br /> Web Security <br />- Blog: [https://misa0136.gitbook.io/blog](https://misa0136.gitbook.io/blog/) |
+| <img src="assets/profile/fox.jpg" class="profile-image" alt="profile-image"/> | **fox**<br /> Là một con người. <br /> Web Security & Reverse Engineering <br />- Blog: [https://nhatanhdeptrai2352005s-organizat.gitbook.io](https://nhatanhdeptrai2352005s-organizat.gitbook.io/about-me/)|
+| <img src="assets/profile/helious.jpg" class="profile-image" alt="profile-image"/> | **Helious**<br /> Thất bại ở đâu mình đứng lên ở đó <br /> Cryptography <br />- Blog: [https://helious12.github.io](https://helious12.github.io)<br />- Github: [Helious12](https://github.com/Helious12) |
+| <img src="assets/profile/hoangtumeo97.jpg" class="profile-image" alt="profile-image"/> | **hoangtumeo97**  <br /> Studying Information Security In ITMO University, Saint Petersburg <br /> Miscellaneous  <br />-- Github: [hoang97](https://github.com/hoang97) |
+
+<br>
+
 <!-- ## Historical Active Members
 
 | | |
